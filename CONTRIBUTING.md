@@ -10,3 +10,4 @@ Notes and usage details for codex-bridge-chatgpt.
 - add a note about the defaults
 - clarify the setup steps
 - add a note about the defaults
+- clarify the setup steps
