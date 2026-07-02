@@ -24,3 +24,4 @@ Notes and usage details for codex-bridge-chatgpt.
 - add a note about the defaults
 - clarify the setup steps
 - link the usage section
+- link the usage section
